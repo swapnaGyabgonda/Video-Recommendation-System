@@ -28,6 +28,7 @@ git clone https://github.com/swapnaGyabgonda/Video-Recommendation-System.git
 
 
 2. Install dependencies:
+
 pip install -r requirements.txt
 
 
